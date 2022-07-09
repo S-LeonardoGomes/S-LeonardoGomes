@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Leonardo Gomes 👋
-> 🌱 Desenvolvedor back-end júnior II e graduando no curso Sistemas de Informação. <br>
-> 🔭 Estudando atualmente sobre construção de API's e integrações. <br>
+> 🌱 Desenvolvedor fullstack. <br>
 > 📚 Leitor nas horas vagas. <br>
 > 🍂 Amante da natureza e da tecnologia. <br> 
 
