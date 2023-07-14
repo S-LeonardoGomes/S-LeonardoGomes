@@ -1,7 +1,8 @@
-## Olá! Eu sou o Leonardo Gomes 👋
-> 🌱 Desenvolvedor fullstack. <br>
-> 📚 Leitor nas horas vagas. <br>
-> 🍂 Amante da natureza e da tecnologia. <br> 
+## Hello! I am Leonardo Gomes 👋
+
+I am a full-stack software engineer with strong knowledge in C#, Node, JavaScript, TypeScript, React, Docker, RabbitMQ, relational and non-relational databases and cloud computing (Azure and AWS), being certified by Microsoft.
+I have extensive experience developing scalable and secure solutions, using the best practices and modern technologies, ensuring good performance and system reliability.
+I'm curious, proactive, collaborative and I'm always learning new trends and technologies.
 
 <br>
 <!-- GitHub Readme Stats -->
