@@ -1,7 +1,9 @@
 ## Hello! I am Leonardo Gomes 👋
 
 I am a full-stack software engineer with strong knowledge in C#, Node, JavaScript, TypeScript, React, Docker, RabbitMQ, relational and non-relational databases and cloud computing (Azure and AWS), being certified by Microsoft.
+
 I have extensive experience developing scalable and secure solutions, using the best practices and modern technologies, ensuring good performance and system reliability.
+
 I'm curious, proactive, collaborative and I'm always learning new trends and technologies.
 
 <br>
@@ -31,7 +33,7 @@ I'm curious, proactive, collaborative and I'm always learning new trends and tec
   -->
 </div><br>
  
-## Onde me encontrar 📫
+## How to reach me 📫
 <div>
   <a href="https://www.linkedin.com/in/s-leonardogomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
